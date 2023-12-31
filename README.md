@@ -1,5 +1,6 @@
-<h1 align="center">👋 Welcome to Norah's GitHub Profile! 🚀</h1>
+![icegif-567](https://github.com/n2xa/n2xa/assets/155285391/3bed4402-c12d-41df-955a-c5d673b23522)<h1 align="center">👋 Welcome to Norah's GitHub Profile! 🚀</h1>
 <h3 align="center">Hey there! I'm Norah alguraishi, a senior student majoring in Computer Science, enthusiastic about collaboration and innovation. This is where i showcase my work in the realm of technology.</h3>
+![Uploading icegif-567.gif…]()
 
 - 📫 How to reach me: **norahalguraishi@gmail.com**
 
