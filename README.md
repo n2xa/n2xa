@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome to Norah's GitHub Profile! 🚀</h1>
-<h3 align="center">Hey there! I'm Norah, a senior student majoring in Computer Science, enthusiastic about collaboration and innovation. This is where i showcase my work in the realm of technology.</h3>
+<h3 align="center">Hey there! I'm Norah, a senior student majoring in Computer Science, enthusiastic about collaboration and innovation. Here where i showcase my work in the realm of technology.</h3>
 
 - 💻 I'm passionate about diving deep into the world of computer science, exploring its various domains.
 - 🌟 Actively seeking opportunities to collaborate on exciting projects and initiatives.
